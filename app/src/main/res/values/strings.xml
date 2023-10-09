@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Laptop Marketplace</string>
+    <string name="about">About</string>
+    <string name="my_name">Syafiq Ziyadul Arifin</string>
+    <string name="my_email">szarifin20041@gmail.com</string>
+    <string name="my_image">My Image</string>
+    <string name="buy">Buy</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="specification">Specifications</string>
+    <string name="cpu">CPU</string>
+    <string name="gpu">GPU</string>
+    <string name="ram">RAM</string>
+    <string name="screen">Screen</string>
+    <string name="storage">Storage</string>
+    <string name="battery">Battery</string>
+    <string name="dimensions">Dimensions</string>
+    <string name="price">Price</string>
+    <string name="weight">Weight</string>
+</resources>
